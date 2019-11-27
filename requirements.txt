@@ -1,0 +1,4 @@
+bwa
+samtools
+primer3
+biopython
