@@ -2,3 +2,5 @@ bwa
 samtools
 primer3
 biopython
+
+hg38 reference sequence (gencode GRCh38.primary_assembly.genome.fa); see primers/run.sh
